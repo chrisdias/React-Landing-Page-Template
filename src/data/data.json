@@ -1,6 +1,6 @@
 {
   "Header": {
-    "title": "Hello",
+    "title": "Hello 👋🏻",
     "paragraph": "I help make developer tools at Microsoft."
   },
   "About": {
@@ -150,9 +150,9 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
+    "address": "1 Microsoft Way, Redmond WA ",
     "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "email": "chris.dias@microsoft.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
