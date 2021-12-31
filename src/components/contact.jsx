@@ -101,8 +101,8 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            Thank you <a href='https://github.com/'>Issaaf Kattan for the site template</a> (<a href="https://www.buymeacoffee.com/issaaf">buy him a ☕️</a>!) 
-            My fork of Issaaf's repo is <a href='http://github.com/chrisdias/thermocloud-web' rel='nofollow'> here</a>.
+            Thank you Issaaf Kattan for the <a href='https://github.com/issaafalkattan/React-Landing-Page-Template'>site template</a> (<a href="https://www.buymeacoffee.com/issaaf">buy Issaaf a ☕️</a>!) 
+            My fork of Issaaf's repo is <a href='https://github.com/chrisdias/React-Landing-Page-Template'> here</a>.
           </p>
         </div>
       </div>
