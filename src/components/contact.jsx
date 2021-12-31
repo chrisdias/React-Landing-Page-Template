@@ -102,7 +102,7 @@ export const Contact = (props) => {
         <div className='container text-center'>
           <p>
             Thank you Issaaf Kattan for the <a href='https://github.com/issaafalkattan/React-Landing-Page-Template'>site template</a> (<a href="https://www.buymeacoffee.com/issaaf">buy Issaaf a ☕️</a>!) 
-            My fork of Issaaf's repo is <a href='https://github.com/chrisdias/React-Landing-Page-Template'> here</a>.
+            My fork is <a href='https://github.com/chrisdias/React-Landing-Page-Template'> here</a>.
           </p>
         </div>
       </div>
